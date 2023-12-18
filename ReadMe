@@ -4,5 +4,8 @@ sebagai alat edukasi untuk memperkenalkan arah bagi anak-anak, program ini dibua
 java dan aplikasi netbeans. 
 
 berikut cara menjalankan program:
-1. download aplikasi netbeans di website online
-2. ekstrak file "MiniGame"
+1. download aplikasi netbeans di website online.
+2. ekstrak file "MiniGame".
+3. unduh dan ekstrak ekstensi java dari zip file "library".
+4. kemudian program tersebut bisa di jalankan.
+note: customize dan set main class nya menjadi "gameui.opening1" untuk memulai program dari tampilan awal.
